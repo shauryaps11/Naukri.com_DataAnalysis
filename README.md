@@ -58,6 +58,4 @@ All notebooks are written and modified by me to demonstrate and learn real-world
 Feel free to connect if you have suggestions or want to collaborate!
 Email: shaurya11pratapsingh@gmail.com
 
-⭐ If you find this useful, please ⭐️ the repo!
-
 
