@@ -42,11 +42,11 @@ Open the notebooks in Jupyter Notebook or VS Code.
 
 Run each notebook step by step to see the data cleaning and analysis.
 
-🛠️ Tech Stack
-Python
-Numpy
-Pandas
-Matplotlib
+🛠️ Tech Stack: 
+Python, 
+Numpy, 
+Pandas, 
+Matplotlib, 
 Seaborn
 Jupyter Notebook
 
