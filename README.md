@@ -2,7 +2,6 @@
 ```
 This repository contains my **exploratory data analysis (EDA)** on job listings data from Naukri.com.  
 The goal is to clean the raw data, analyze job trends, and extract insights about the job market.
-```
 ---
 
 ## 📁 **Project Structure**
