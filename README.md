@@ -5,7 +5,7 @@ The goal is to clean the raw data, analyze job trends, and extract insights abou
 ```
 
 ## 📁 **Project Structure**
-
+```
 datasets/
 ├── naukri_data.csv
 ├── naukri_com-job_sample.csv
@@ -15,14 +15,14 @@ notebooks/
 ├── 1_Data_Cleaning.ipynb
 ├── 2_Analysis_Part1.ipynb
 └── 3_Analysis_Part2.ipynb
-
+```
 
 ## 🗂️ **Contents**
 
 **1️⃣ `datasets/`** — Raw and processed CSV files.  
 **2️⃣ `notebooks/`** — Jupyter notebooks with step-by-step cleaning and analysis.
 
-```
+
 
 ## 🔍 **Key Steps**
 
@@ -30,7 +30,7 @@ notebooks/
 - 📈 **EDA Part 1:** Analyzed job roles, skills, companies, and locations.
 - 📊 **EDA Part 2:** Deeper insights — salary trends, demand for skills, company-wise openings.
 
-```
+
 
 ## 🚀 **How to Use**
 
