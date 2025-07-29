@@ -2,7 +2,7 @@
 ```
 This repository contains my **exploratory data analysis (EDA)** on job listings data from Naukri.com.  
 The goal is to clean the raw data, analyze job trends, and extract insights about the job market.
----
+```
 
 ## 📁 **Project Structure**
 
@@ -16,14 +16,13 @@ notebooks/
 ├── 2_Analysis_Part1.ipynb
 └── 3_Analysis_Part2.ipynb
 
----
 
 ## 🗂️ **Contents**
 
 **1️⃣ `datasets/`** — Raw and processed CSV files.  
 **2️⃣ `notebooks/`** — Jupyter notebooks with step-by-step cleaning and analysis.
 
----
+```
 
 ## 🔍 **Key Steps**
 
@@ -31,7 +30,7 @@ notebooks/
 - 📈 **EDA Part 1:** Analyzed job roles, skills, companies, and locations.
 - 📊 **EDA Part 2:** Deeper insights — salary trends, demand for skills, company-wise openings.
 
----
+```
 
 ## 🚀 **How to Use**
 
@@ -62,4 +61,3 @@ Email: shaurya11pratapsingh@gmail.com
 ⭐ If you find this useful, please ⭐️ the repo!
 
 
----
